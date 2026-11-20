@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research platform, please cite it as below."
+authors:
+  - family-names: "Quantum-XAI Consortium"
+    given-names: "CFTR Precision Nanomedicine Group"
+title: "Quantum-XAI: CFTR Precision Gene Therapy & Lipid Nanoparticle Optimization Platform"
+version: 1.0.0
+date-released: 2026-11-13
+url: "https://github.com/your-org/quantum-xai-cftr"
+doi: "10.5281/zenodo.17243733"
+keywords:
+  - "CFTR"
+  - "Cystic Fibrosis"
+  - "Lipid Nanoparticles"
+  - "LNP Atlas"
+  - "Quantum Optimization"
+  - "QAOA"
+  - "QUBO"
+  - "Explainable AI"
+  - "SHAP"
+
